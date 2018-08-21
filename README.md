@@ -34,7 +34,28 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-function johnLennonFacts() {
+const musicians = [
+  "John Lennon",
+  "Paul McCartney",
+  "Ringo Starr",
+  "George Harrison"
+];
+
+const instruments = [
+  "guitar",
+  "bass",
+  "drums",
+  'guitar'
+]
+
+function theBeatlesPlay(musicians, instruments) {
+  var whatTheyPlay = [];
+  for (var i = 0; i < musicians.length; i++) {
+    var whatHePlays = 
+  }
+}
+
+function johnLennonFacts(facts) {
   
   
 }
