@@ -34,31 +34,10 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-const musicians = [
-  "John Lennon",
-  "Paul McCartney",
-  "Ringo Starr",
-  "George Harrison"
-];
+ const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
+const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
-const instruments = [
-  "guitar",
-  "bass",
-  "drums",
-  'guitar'
-]
 
-function theBeatlesPlay(musicians, instruments) {
-  var whatTheyPlay = [];
-  for (var i = 0; i < musicians.length; i++) {
-    var whatHePlays = 
-  }
-}
-
-function johnLennonFacts(facts) {
-  
-  
-}
 ```
 
 Use a while loop to loop over the facts array and add `"!!!"` to the end of
