@@ -34,7 +34,7 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-<!-- const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];-->
+<!--const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];-->
 <!--const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];-->
 
 
